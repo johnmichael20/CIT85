@@ -11,7 +11,7 @@ html, body, main, div{
     border: 2px solid red;
     display: flex;
     flex-wrap: wrap;
-    flex-direction: row-reverse;
+    flex-direction: row;
     justify-content: flex-start;
     align-content: flex-start;
     }
